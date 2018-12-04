@@ -1,4 +1,4 @@
-Tdlinit
+tdlinit
 =======
 
 Once the server has been restarted, run the command:
