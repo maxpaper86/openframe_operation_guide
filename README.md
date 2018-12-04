@@ -1,7 +1,7 @@
 Table of Contents
 =================
 
-[Tdlinit 1](#tdlinit)
+[Tdlinit 1](/tdlinit.md)
 
 [Start/Stop OpenFrame 2](#startstop-openframe)
 
@@ -15,6 +15,10 @@ Table of Contents
 [Tibero Boot Verification 2](#tibero-boot-verification)
 
 [Tibero Shutdown Process 3](#tibero-shutdown-process)
+
+testtt
+
+test2
 
 [OpenFrame Core – Application Layer
 3](#openframe-core-application-layer)
