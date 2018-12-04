@@ -1,7 +1,7 @@
 Table of Contents
 =================
 
-[Tdlinit 1](#tdlinit)
+[Tdlinit 1](/tdlinit.md)
 
 [Start/Stop OpenFrame 2](#startstop-openframe)
 

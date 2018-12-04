@@ -1,7 +1,7 @@
 # Summary
 
 * [Table of Contents](README.md)
-* [tdlinit](chapter1.md)
+* [tdlinit](tdlinit.md)
 * [Start/Stop OpenFrame](startstop-openframe.md)
 * [Tibero – Data Layer \(Database\)](tibero-data-layer-database.md)
 * [OpenFrame Core – Application Layer](openframe-core-application-layer.md)
